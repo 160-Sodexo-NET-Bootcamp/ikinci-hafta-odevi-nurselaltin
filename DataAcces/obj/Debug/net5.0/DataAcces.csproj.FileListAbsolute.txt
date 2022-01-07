@@ -1,0 +1,5 @@
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\DataAcces\obj\Debug\net5.0\DataAcces.csproj.AssemblyReference.cache
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\DataAcces\obj\Debug\net5.0\DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\DataAcces\obj\Debug\net5.0\DataAcces.AssemblyInfoInputs.cache
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\DataAcces\obj\Debug\net5.0\DataAcces.AssemblyInfo.cs
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\DataAcces\obj\Debug\net5.0\DataAcces.csproj.CoreCompileInputs.cache

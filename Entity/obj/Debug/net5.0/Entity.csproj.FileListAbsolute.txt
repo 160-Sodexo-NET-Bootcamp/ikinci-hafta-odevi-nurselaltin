@@ -1,0 +1,12 @@
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Entity\bin\Debug\net5.0\Entity.dll
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Entity\bin\Debug\net5.0\ref\Entity.dll
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Entity\bin\Debug\net5.0\Entity.pdb
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Entity\obj\Debug\net5.0\Entity.dll
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Entity\obj\Debug\net5.0\ref\Entity.dll
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Entity\obj\Debug\net5.0\Entity.pdb
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Entity\obj\Debug\net5.0\Entity.csproj.AssemblyReference.cache

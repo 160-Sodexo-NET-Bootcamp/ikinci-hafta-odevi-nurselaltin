@@ -1,0 +1,11 @@
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Business\bin\Debug\net5.0\Business.deps.json
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Business\bin\Debug\net5.0\Business.dll
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Business\bin\Debug\net5.0\ref\Business.dll
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Business\bin\Debug\net5.0\Business.pdb
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Business\obj\Debug\net5.0\Business.dll
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Business\obj\Debug\net5.0\ref\Business.dll
+C:\Users\Nursel\Desktop\Software\Firmalar\Patika\Patika2-Proje\GarbageCollectSystem\Business\obj\Debug\net5.0\Business.pdb
